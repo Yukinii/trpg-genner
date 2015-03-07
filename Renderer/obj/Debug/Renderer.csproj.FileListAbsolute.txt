@@ -1,1 +1,0 @@
-c:\users\jared\documents\visual studio 2013\Projects\TextRPG Engine\Renderer\bin\Debug\Renderer.exe.config
