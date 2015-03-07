@@ -1,0 +1,16 @@
+c:\users\jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\bin\Debug\TextRPG.exe.config
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\TextRPG.csprojResolveAssemblyReference.cache
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\Windows\MainWindow.baml
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\App.g.cs
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\TextRPG_MarkupCompile.cache
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\TextRPG.g.resources
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\TextRPG.Properties.Resources.resources
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\TextRPG.csproj.GenerateResource.Cache
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\bin\Debug\TextRPG.exe
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\bin\Debug\TextRPG.pdb
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\TextRPG.exe
+C:\Users\Jared\documents\visual studio 2013\Projects\TextRPG Engine\TextRPG\obj\Debug\TextRPG.pdb
+E:\Development\Projects\TRPG\TextRPG\bin\Debug\TextRPG.exe.config
+E:\Development\Projects\TRPG\TextRPG\obj\Debug\TextRPG.exe
+E:\Development\Projects\TRPG\TextRPG\obj\Debug\TextRPG.pdb
