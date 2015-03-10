@@ -1,0 +1,10 @@
+﻿<Window x:Class="TextRPG.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TextRPG (Alpha!)" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="TextRPG Build:" HorizontalAlignment="Left" Margin="10,286,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="10"/>
+        <Label x:Name="nLblBuild" Content="a1000 (a0.0.1) Mar 9, 2015" HorizontalAlignment="Left" Margin="89,286,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="10"/>
+
+    </Grid>
+</Window>

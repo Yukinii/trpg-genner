@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG", "TextRPG\TextRPG.csproj", "{6ACB0A95-CF38-4408-92FE-2386EA994CA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRPG Offline", "TextRPG Offline\TextRPG Offline.csproj", "{378B0E1F-07A9-4EAB-A208-D36438B5F8D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6ACB0A95-CF38-4408-92FE-2386EA994CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ACB0A95-CF38-4408-92FE-2386EA994CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ACB0A95-CF38-4408-92FE-2386EA994CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378B0E1F-07A9-4EAB-A208-D36438B5F8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378B0E1F-07A9-4EAB-A208-D36438B5F8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378B0E1F-07A9-4EAB-A208-D36438B5F8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378B0E1F-07A9-4EAB-A208-D36438B5F8D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
